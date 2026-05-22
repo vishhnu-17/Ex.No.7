@@ -20,7 +20,44 @@ ChatGPT, Antigravity
 
 ## Explanation
 
-**Prompt:** You are an expert full-stack web developer. Build a responsive and user-friendly web application called "AI Workout Routine Generator" that helps users generate personalized workout plans based on their fitness goals.
+**Prompt:** Create a modern responsive web application called “AI Workout Routine Generator”.
+
+Purpose:
+The app should help users generate personalized workout plans using prompt-based AI interaction.
+
+Features Required:
+1. A clean homepage with the title “Workout Routine Generator”.
+2. Input form fields for:
+   - Fitness Goal (Weight Loss, Muscle Gain, Fitness, Strength)
+   - Workout Experience (Beginner, Intermediate, Advanced)
+   - Available Time Per Day
+   - Available Equipment
+   - Number of Workout Days Per Week
+3. A “Generate Workout Plan” button.
+4. After submission, generate a detailed workout routine using AI-style responses.
+5. Display:
+   - Daily workout schedule
+   - Exercises
+   - Sets and repetitions
+   - Rest time
+   - Tips and motivation
+6. Add attractive UI with cards, gradients, and responsive design.
+7. Include dark/light mode toggle.
+8. Add loading animation while generating the plan.
+9. Use modern fonts and smooth animations.
+10. Make the design minimalistic and professional.
+
+Technical Requirements:
+- Use React and Tailwind CSS.
+- Mobile-friendly responsive layout.
+- Organize code cleanly into components.
+- Add placeholder AI-generated responses if API is not connected.
+- Include comments explaining major sections.
+
+Extra Features:
+- Add a BMI calculator section.
+- Add downloadable workout summary.
+- Add motivational quote of the day.
 
 ---
 
