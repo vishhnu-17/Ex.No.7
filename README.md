@@ -158,13 +158,15 @@ Generate full code (frontend), including:
 
 ---
 
-### Home Page / Form:
+### Home Page 
+<img width="1919" height="1079" alt="Screenshot 2026-05-22 134613" src="https://github.com/user-attachments/assets/4fbfe98f-c14f-4980-936d-58d6c8b78716" />
+<img width="1919" height="967" alt="Screenshot 2026-05-22 134628" src="https://github.com/user-attachments/assets/ef40c2f6-437e-4f56-b7f8-7f8f029437ea" />
+<img width="1914" height="844" alt="Screenshot 2026-05-22 134707" src="https://github.com/user-attachments/assets/255677f3-c8f7-4900-9f7e-adc2e603eed6" />
 
-![Home Page Screenshot](./screenshots/home.png)
 
 ### Generated Workout Plan:
 
-![Workout Plan Screenshot](./screenshots/plan.png)
+<img width="1919" height="970" alt="Screenshot 2026-05-22 135017" src="https://github.com/user-attachments/assets/4fa5d22c-3615-48b3-9633-d57534d9ee28" />
 
 ---
 
